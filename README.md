@@ -85,7 +85,7 @@ pyinstaller -F -w --icon=filesummary.ico flexible_version.py
 
 - 程序需要稳定的网络环境以调用 OpenAI API。
 - 请确保OpenAI API Key有效且URL稳定。
-- GitHub上有大量免费的OpenAI API，例如XXX，仅供学习参考，与本项目无关。
+- GitHub上有大量免费的OpenAI API，例如https://github.com/popjane/free_chatgpt_api，仅供学习参考，与本项目无关。
 ---
 
 ## 作者
