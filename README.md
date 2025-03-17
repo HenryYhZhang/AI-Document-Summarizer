@@ -4,8 +4,8 @@
 现在连AI网页都不用打开啦！双击鼠标即可生成————综合总结.docx
 
 本项目提供了一个自动化工具，能够利用 OpenAI 的 API 对 PDF、DOCX、PPTX 和 XLSX 等多种文档格式进行内容提取与总结，并生成一份综合摘要的 Word 文档。
-<img src="image.png" width="400px" />
 
+<img src="image.png" width="400px" />
 
 ---
 
