@@ -16,6 +16,7 @@ from tkinter import messagebox
 import io
 
 # =========== 设置你的 openai.api_base 和 openai.api_key ===========
+#注意，通常情况下URL末尾需要加上/v1
 openai.api_base = "将此部分替换为URL"
 openai.api_key = "将此部分替换为API"
 
