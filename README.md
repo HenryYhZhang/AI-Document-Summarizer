@@ -26,6 +26,12 @@
 
 ### 一、直接运行Python脚本
 
+安装以下库
+
+```bash
+pip install openai python-docx PyPDF2 python-pptx openpyxl pywin32 tkinter
+```
+
 #### 第一个版本（便捷版）
 1. 在代码中提前填写好 OpenAI 的 URL 与 API Key。
 2. 确保所需总结的文档与脚本在同一目录。
