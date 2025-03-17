@@ -41,7 +41,7 @@ python convenient_version.py
 python flexible_version.py
 ```
 
-### 二、打包为可执行文件 (EXE)
+### 二、打包为可直接双击的exe文件（更推荐）
 
 两个版本均可打包为EXE文件，便于直接运行：
 
@@ -74,7 +74,7 @@ pyinstaller -F -w --icon=filesummary.ico flexible_version.py
 本仓库提供以下文件：
 - `convenient_version.py`：版本一Python脚本。
 - `flexible_version.py`：版本二Python脚本。
-- `flexible_version.exe`：已打包的版本二可执行程序。
+- `flexible_version.exe`：已打包好的版本二可执行程序。（可直接下载并使用）
 - `filesummary.ico`：程序使用的图标文件。
 
 ---
@@ -83,7 +83,7 @@ pyinstaller -F -w --icon=filesummary.ico flexible_version.py
 
 - 程序需要稳定的网络环境以调用 OpenAI API。
 - 请确保OpenAI API Key有效且URL稳定。
-
+- GitHub上有大量免费的OpenAI API，例如XXX，仅供学习参考，与本项目无关。
 ---
 
 ## 作者
